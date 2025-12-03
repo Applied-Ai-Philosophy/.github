@@ -40,7 +40,7 @@ Our work builds the foundations of **Applied AI Philosophy**: a research discipl
 
 | Repository | Description |
 |------------|-------------|
-| [**Applied-Ai-Philoaophy**](https://github.com/Applied-Ai-Philosophy/Applied-Ai-Philoaophy) | The discipline manifesto — what Applied AI Philosophy *is* |
+| [**Applied-Ai-Philosophy**](https://github.com/Applied-Ai-Philosophy/Applied-Ai-Philosophy) | The discipline manifesto — what Applied AI Philosophy *is* |
 
 ### 🔬 Empirical Tooling  
 > *Measurement, analysis, protocols, datasets*
@@ -139,6 +139,6 @@ Independent Researcher · Base76 Research Lab
 
 *If you find this research useful, consider starring our repos ⭐*
 
-[Start a Discussion](https://github.com/orgs/Applied-Ai-Philosophy/discussions) · [Contribute](https://github.com/Applied-Ai-Philosophy/Applied-Ai-Philoaophy/blob/main/community/Collaboration-Guidelines.md)
+[Start a Discussion](https://github.com/orgs/Applied-Ai-Philosophy/discussions) · [Contribute](https://github.com/Applied-Ai-Philosophy/Applied-Ai-Philosophy/blob/main/community/Collaboration-Guidelines.md)
 
 </div>

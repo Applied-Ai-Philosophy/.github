@@ -112,7 +112,7 @@ Empirical output: **0.0 – 1.0 scale**
 Applied-Ai-Philosophy/
 │
 ├── 📕 FOUNDATION
-│   └── Applied-Ai-Philoaophy-/     # Field definition & manifesto
+│   └── Applied-Ai-Philosophy-/     # Field definition & manifesto
 │
 ├── 🔬 EMPIRICAL TOOLING
 │   ├── fnc-lab/                    # Analysis tools & scoring
