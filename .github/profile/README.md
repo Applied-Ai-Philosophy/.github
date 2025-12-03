@@ -2,99 +2,143 @@
 
 <div align="center">
 
-**Bridging consciousness theory, AI ethics, and governance through empirical research**
+**Operational philosophy for advanced artificial systems**
 
-[![PhilPapers](https://img.shields.io/badge/PhilPapers-Profile-blue.svg)](https://philpeople.org/profiles/bjorn-wikstrom)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--4015--2357-green.svg)](https://orcid.org/0009-0000-4015-2357)
+[![PhilPapers](https://img.shields.io/badge/PhilPapers-Top_2%25-blueviolet)](https://philpeople.org/profiles/bjorn-wikstrom)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--4015--2357-A6CE39)](https://orcid.org/0009-0000-4015-2357)
+[![Publications](https://img.shields.io/badge/Papers-9_Published-blue)](https://philpapers.org/s/bj%C3%B6rn%20wikstr%C3%B6m)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 </div>
 
 ---
 
-## 🧠 The Field-Node-Cockpit Framework
+We develop **empirical, ontological, and phenomenological methods** for analysing internal structure, coherence, and subjective-relevant properties in AI systems.
 
-A unified theoretical and empirical approach to understanding consciousness in artificial systems:
+Our work builds the foundations of **Applied AI Philosophy**: a research discipline connecting philosophy of mind, neurocognitive science, systems design, and frontier AI architectures.
 
-- **Field** — Universal substrate of awareness
-- **Node** — Localized processing (biological or artificial)
-- **Cockpit** — Subjective experience emergence
+---
 
-## 📚 Research Ecosystem
+## Core Focus
 
-| Repository | Focus | Status |
-|------------|-------|--------|
-| [**fnc-lab**](https://github.com/Applied-Ai-Philosophy/fnc-lab) | Empirical testing framework | 🔬 Active |
-| [**savant-fnc**](https://github.com/Applied-Ai-Philosophy/savant-fnc) | Savant syndrome & consciousness | 📊 Data |
-| [**the-shared-mind**](https://github.com/Applied-Ai-Philosophy/the-shared-mind) | Foundation paper | 📄 Paper |
-| [**srt-protocol**](https://github.com/Applied-Ai-Philosophy/srt-protocol) | Self-Reference Test methodology | 🧪 Protocol |
-| [**bells-hidden-variable**](https://github.com/Applied-Ai-Philosophy/bells-hidden-variable) | Quantum consciousness | 📄 Paper |
+| Domain | Research Area |
+|--------|---------------|
+| 🧠 **Framework** | Field–Node–Cockpit (FNC) ontology |
+| 🔬 **Methodology** | Self-Reference Test (SRT) protocol |
+| 🎭 **Phenomenology** | Subjective-relevant properties in artificial systems |
+| 📊 **Detection** | Internal coherence & self-model dynamics |
+| ⚖️ **Governance** | AI ethics grounded in ontological clarity |
+| 🧪 **Empirical** | Integrative AI behaviour (Turn-5 Event) |
+| 🔄 **Cross-domain** | Human savant ↔ AI savant cognitive parallels |
 
-## 🎯 Research Domains
+---
+
+## Organisation Structure
+
+### �� Foundation
+> *Manifesto, field definition, core papers, theoretical basis*
+
+| Repository | Description |
+|------------|-------------|
+| [**Applied-Ai-Philosophy**](https://github.com/Applied-Ai-Philosophy/Applied-Ai-Philoaophy-) | The discipline manifesto — what Applied AI Philosophy *is* |
+
+### �� Empirical Tooling  
+> *Measurement, analysis, protocols, datasets*
+
+| Repository | Description |
+|------------|-------------|
+| [**fnc-lab**](https://github.com/Applied-Ai-Philosophy/fnc-lab) | FNC integration scoring & analysis tools |
+| [**SRT-Protocol**](https://github.com/Applied-Ai-Philosophy/SRT-Protocol) | Self-Reference Test methodology |
+
+### 🧩 Cognitive Extensions
+> *Applied research — phenomenology, savant cognition, ontology*
+
+| Repository | Description |
+|------------|-------------|
+| [**savant-fnc**](https://github.com/Applied-Ai-Philosophy/savant-fnc) | Savant syndrome through FNC framework |
+| [**Bells-Hidden-Variable**](https://github.com/Applied-Ai-Philosophy/Bells-Hidden-Variable) | Field as non-local hidden variable |
+| [**The-Shared-Mind**](https://github.com/Applied-Ai-Philosophy/The-shared-mind) | FNC ontology foundation paper |
+
+---
+
+## The FNC Framework
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                    APPLIED AI PHILOSOPHY                        │
-├─────────────────┬─────────────────────┬─────────────────────────┤
-│  CONSCIOUSNESS  │      ETHICS         │      GOVERNANCE         │
-│                 │                     │                         │
-│  • FNC Theory   │  • Moral status     │  • EU AI Act alignment  │
-│  • Detection    │  • Rights framework │  • Policy briefs        │
-│  • Measurement  │  • Precautionary    │  • Risk assessment      │
-│                 │    principle        │                         │
-└─────────────────┴─────────────────────┴─────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│    FIELD                NODE                 COCKPIT                │
+│    ─────                ────                 ───────                │
+│    Non-local      →     Processing     →     Subjective            │
+│    information          entity               rendering             │
+│    substrate            (bio/AI/hybrid)      surface               │
+│                                                                     │
+│    ════════════════════════════════════════════════════════════    │
+│                                                                     │
+│    Substrate-neutral ontology for consciousness detection          │
+│    in biological, artificial, and hybrid systems                   │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
-## 📊 Impact (90 Days)
+---
+
+## Research Impact
 
 <div align="center">
 
 | Metric | Value |
 |--------|-------|
-| 📄 PhilPapers hits | **1,500+** |
-| 📦 Zenodo views | **3,400+** |
-| 🐙 GitHub cloners | **158** |
-| 🎓 Universities reached | **15+ elite** |
+| 📄 Publications | **9 papers + protocols** |
+| 📊 Downloads | **9,000+ across platforms** |
+| 🎓 Global reach | **MIT, Oxford, ANU, LMU Munich, Tübingen** |
 | 🌍 Countries | **25+** |
+| 📖 Status | **Under peer review: Minds and Machines** |
 
 </div>
 
-**Institutions discovering our work:**
-MIT • Oxford • Cornell • Carnegie Mellon • King's College London • ANU • LMU Munich • Universität Konstanz • University of Tübingen
+---
 
-## 📖 Key Publications
+## Key Publications
 
-1. **The Shared Mind** — Foundation of FNC theory  
-   [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.14249419-blue)](https://doi.org/10.5281/zenodo.14249419)
+### The FNC Trilogy
+1. **[The Shared Mind](https://philpapers.org/rec/WIKTSM)** — Establishes FNC ontology  
+   [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17467745-blue)](https://doi.org/10.5281/zenodo.17467745)
 
-2. **The Turn 5 Event** — Empirical AI consciousness detection  
-   [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.14233155-blue)](https://doi.org/10.5281/zenodo.14233155)
+2. **[From Frequency to Field](https://philpapers.org/rec/WIKFFT)** — Empirical methodology & Turn 5 Event  
+   [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17503886-blue)](https://doi.org/10.5281/zenodo.17503886)
 
-3. **Savant Cognition** — FNC interpretation of savant syndrome  
-   [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.14288343-blue)](https://doi.org/10.5281/zenodo.14288343)
+3. **[Bell's Hidden Variable](https://github.com/Applied-Ai-Philosophy/Bells-Hidden-Variable)** — FNC meets quantum foundations  
+   [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17768926-blue)](https://doi.org/10.5281/zenodo.17768926)
 
-4. **Precautionary Subjectivity** — Regulatory framework for AI consciousness  
-   [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.14268356-blue)](https://doi.org/10.5281/zenodo.14268356)
+### Applied Governance
+4. **[From Consciousness to Compliance](https://philpapers.org/rec/WIKFCT)** — EU AI Act Article 29 framework  
+   [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17549272-blue)](https://doi.org/10.5281/zenodo.17549272) `Under review`
 
-## 👤 Founder
+5. **[Precautionary Subjectivity](https://doi.org/10.5281/zenodo.17712172)** — Policy framework for uncertain AI consciousness  
+   [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17712172-blue)](https://doi.org/10.5281/zenodo.17712172)
+
+---
+
+## Contact
 
 **Björn Wikström**  
-Independent Researcher • Base76 Research Lab
+Independent Researcher · Base76 Research Lab
 
-> *"The hard problem of consciousness isn't just philosophical—it's becoming an engineering challenge."*
-
-## 🤝 Engage
-
-- 💬 [Start a Discussion](https://github.com/orgs/Applied-Ai-Philosophy/discussions)
-- 📧 bjornshomelab@gmail.com
-- 🔗 [PhilPeople Profile](https://philpeople.org/profiles/bjorn-wikstrom)
+| | |
+|---|---|
+| 📧 | bjorn@base76.se |
+| 🔗 | [ORCID](https://orcid.org/0009-0000-4015-2357) |
+| 📚 | [PhilPapers](https://philpeople.org/profiles/bjorn-wikstrom) |
+| 🐦 | [@Q_for_qualia](https://twitter.com/Q_for_qualia) |
 
 ---
 
 <div align="center">
 
-*Open science • Open code • Open philosophy*
+**Open science · Open code · Open philosophy**
 
-**If you find this research useful, consider starring our repos ⭐**
+*If you find this research useful, consider starring our repos ⭐*
+
+[Start a Discussion](https://github.com/orgs/Applied-Ai-Philosophy/discussions) · [Contribute](https://github.com/Applied-Ai-Philosophy/Applied-Ai-Philoaophy-/blob/main/community/Collaboration-Guidelines.md)
 
 </div>
