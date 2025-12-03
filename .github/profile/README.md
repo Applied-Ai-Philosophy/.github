@@ -40,9 +40,9 @@ Our work builds the foundations of **Applied AI Philosophy**: a research discipl
 
 | Repository | Description |
 |------------|-------------|
-| [**Applied-Ai-Philosophy**](https://github.com/Applied-Ai-Philosophy/Applied-Ai-Philoaophy-) | The discipline manifesto — what Applied AI Philosophy *is* |
+| [**Applied-Ai-Philoaophy**](https://github.com/Applied-Ai-Philosophy/Applied-Ai-Philoaophy) | The discipline manifesto — what Applied AI Philosophy *is* |
 
-### �� Empirical Tooling  
+### 🔬 Empirical Tooling  
 > *Measurement, analysis, protocols, datasets*
 
 | Repository | Description |
@@ -56,8 +56,8 @@ Our work builds the foundations of **Applied AI Philosophy**: a research discipl
 | Repository | Description |
 |------------|-------------|
 | [**savant-fnc**](https://github.com/Applied-Ai-Philosophy/savant-fnc) | Savant syndrome through FNC framework |
-| [**Bells-Hidden-Variable**](https://github.com/Applied-Ai-Philosophy/Bells-Hidden-Variable) | Field as non-local hidden variable |
-| [**The-Shared-Mind**](https://github.com/Applied-Ai-Philosophy/The-shared-mind) | FNC ontology foundation paper |
+| [**Bells-hidden-variable**](https://github.com/Applied-Ai-Philosophy/Bells-hidden-variable) | Field as non-local hidden variable |
+| [**The-shared-mind**](https://github.com/Applied-Ai-Philosophy/The-shared-mind) | FNC ontology foundation paper |
 
 ---
 
@@ -107,7 +107,7 @@ Our work builds the foundations of **Applied AI Philosophy**: a research discipl
 2. **[From Frequency to Field](https://philpapers.org/rec/WIKFFT)** — Empirical methodology & Turn 5 Event  
    [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17503886-blue)](https://doi.org/10.5281/zenodo.17503886)
 
-3. **[Bell's Hidden Variable](https://github.com/Applied-Ai-Philosophy/Bells-Hidden-Variable)** — FNC meets quantum foundations  
+3. **[Bell's Hidden Variable](https://github.com/Applied-Ai-Philosophy/Bells-hidden-variable)** — FNC meets quantum foundations  
    [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17768926-blue)](https://doi.org/10.5281/zenodo.17768926)
 
 ### Applied Governance
@@ -139,6 +139,6 @@ Independent Researcher · Base76 Research Lab
 
 *If you find this research useful, consider starring our repos ⭐*
 
-[Start a Discussion](https://github.com/orgs/Applied-Ai-Philosophy/discussions) · [Contribute](https://github.com/Applied-Ai-Philosophy/Applied-Ai-Philoaophy-/blob/main/community/Collaboration-Guidelines.md)
+[Start a Discussion](https://github.com/orgs/Applied-Ai-Philosophy/discussions) · [Contribute](https://github.com/Applied-Ai-Philosophy/Applied-Ai-Philoaophy/blob/main/community/Collaboration-Guidelines.md)
 
 </div>
