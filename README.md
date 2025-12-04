@@ -1,6 +1,9 @@
-# Applied AI Philosophy
+# Applied AI Philosophy — .github Repository
 
-Organisation configuration, documentation, and community hub for **Applied AI Philosophy**.
+> **Note:** This is the special `.github` repository for the Applied AI Philosophy organisation.  
+> The `profile/README.md` appears on our [public organisation page](https://github.com/Applied-Ai-Philosophy).
+
+This repository contains organisation-wide configuration, documentation, and community infrastructure.
 
 ## 🚀 Quick Start
 
