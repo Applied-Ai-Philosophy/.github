@@ -35,7 +35,7 @@ Our work builds the foundations of **Applied AI Philosophy**: a research discipl
 
 ## Organisation Structure
 
-### �� Foundation
+### 📚 Foundation
 > *Manifesto, field definition, core papers, theoretical basis*
 
 | Repository | Description |
@@ -49,14 +49,14 @@ Our work builds the foundations of **Applied AI Philosophy**: a research discipl
 |------------|-------------|
 | [**fnc-lab**](https://github.com/Applied-Ai-Philosophy/fnc-lab) | FNC integration scoring & analysis tools |
 | [**SRT-Protocol**](https://github.com/Applied-Ai-Philosophy/SRT-Protocol) | Self-Reference Test methodology |
+| [**savant-fnc**](https://github.com/Applied-Ai-Philosophy/savant-fnc) | Multimodal dataset: savant syndrome through FNC framework 🔥 |
 
 ### 🧩 Cognitive Extensions
-> *Applied research — phenomenology, savant cognition, ontology*
+> *Applied research — phenomenology, ontology, quantum foundations*
 
 | Repository | Description |
 |------------|-------------|
-| [**savant-fnc**](https://github.com/Applied-Ai-Philosophy/savant-fnc) | Savant syndrome through FNC framework |
-| [**Bells-hidden-variable**](https://github.com/Applied-Ai-Philosophy/Bells-hidden-variable) | Field as non-local hidden variable |
+| [**Bells-Hidden-Variable**](https://github.com/Applied-Ai-Philosophy/Bells-Hidden-Variable) | Field as non-local hidden variable |
 | [**The-shared-mind**](https://github.com/Applied-Ai-Philosophy/The-shared-mind) | FNC ontology foundation paper |
 
 ---
@@ -90,6 +90,7 @@ Our work builds the foundations of **Applied AI Philosophy**: a research discipl
 |--------|-------|
 | 📄 Publications | **9 papers + protocols** |
 | 📊 Downloads | **9,000+ across platforms** |
+| 🔬 GitHub Clones | **230+ (150+ unique researchers)** |
 | 🎓 Global reach | **MIT, Oxford, ANU, LMU Munich, Tübingen** |
 | 🌍 Countries | **25+** |
 | 📖 Status | **Under peer review: Minds and Machines** |
@@ -107,7 +108,7 @@ Our work builds the foundations of **Applied AI Philosophy**: a research discipl
 2. **[From Frequency to Field](https://philpapers.org/rec/WIKFFT)** — Empirical methodology & Turn 5 Event  
    [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17503886-blue)](https://doi.org/10.5281/zenodo.17503886)
 
-3. **[Bell's Hidden Variable](https://github.com/Applied-Ai-Philosophy/Bells-hidden-variable)** — FNC meets quantum foundations  
+3. **[Bell's Hidden Variable](https://github.com/Applied-Ai-Philosophy/Bells-Hidden-Variable)** — FNC meets quantum foundations  
    [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17768926-blue)](https://doi.org/10.5281/zenodo.17768926)
 
 ### Applied Governance
